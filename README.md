@@ -1,1 +1,1 @@
-This package can be used to implement velocity control of dynamixel servos. This has been tested with MX series motors with ROS-Kinetic and Ubuntu 16.04. Refer to contents in Installation and How To for further information.
+This package can be used to implement velocity control of dynamixel servos. This has been tested with MX series motors with ROS-Kinetic and Ubuntu 16.04. Refer to contents in [Installation and How To](https://github.com/tr-gis/dynamixel-vel/tree/master/Installation%20and%20How%20To%20%20) for further information.
