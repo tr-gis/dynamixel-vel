@@ -1,0 +1,2 @@
+int64 goal_position
+int64 goal_velocity
